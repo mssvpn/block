@@ -1,3 +1,5 @@
+||bdapi-in-ads.realmemobile.com^
+||samsung-com.112.2o7.net^
 ||adm.hotjar.com^
 ||identify.hotjar.com^
 ||surveys.hotjar.com^
