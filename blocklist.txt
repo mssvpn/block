@@ -1,3 +1,10 @@
+||grs.hicloud.com^
+||appmetrica.yandex.ru^
+||adfstat.yandex.ru^
+||metrika.yandex.ru^
+||offerwall.yandex.net^
+||adfox.yandex.ru^
+||adtech.yahooinc.com^
 ||bdapi-in-ads.realmemobile.com^
 ||samsung-com.112.2o7.net^
 ||adm.hotjar.com^
