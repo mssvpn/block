@@ -1,3 +1,4 @@
+||advertising-api-eu.amazon.com^
 ||grs.hicloud.com^
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
