@@ -1,0 +1,8 @@
+###[Device Blacklisted]###
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Your Device Were Blacklisted!" group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/712/default.mpd
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Contact Seller If You See This." group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/712/default.mpd
+
+#EXTM3U billed-msg="Your Device Were Blacklisted!. . ."
