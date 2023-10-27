@@ -1,0 +1,5 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LMdQcsNeE09DSJz+C1xghA","kid":"iB40X2DB2OLN1JOF1WXmEA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://vodejitp-asset-playback-b.astro.com.my/v2/default/dash-wv/vode/ae5b124c-f5e2-5618-ac79-e347c66fc856/default_primary.mpd
+
