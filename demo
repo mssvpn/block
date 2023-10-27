@@ -1,3 +1,4 @@
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LMdQcsNeE09DSJz+C1xghA","kid":"iB40X2DB2OLN1JOF1WXmEA"}],"type":"temporary"}
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
