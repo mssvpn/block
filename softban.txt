@@ -1,8 +1,8 @@
 ###[SOFT BAN]###
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Device ID Banned 24 Hours!" group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Banned 24 Hours!" group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/712/default.mpd
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Breaking Rules for Multiple Device." group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="Multiple Device." group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/712/default.mpd
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="1 ID = 1 Device Only!" group-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png" tvg-logo="https://telegra.ph/file/faf3b3d45f235e4051c2a.png",101 TV1 HD
