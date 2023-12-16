@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3800000
-#EXTVLCOPT:http-user-agent=OTT_1/v4.5.1
-#EXTVLCOPT:http-referrer=https://ott-1.yxz
-https://vod.go-ott.workers.dev/0:/LIVE/go_ott_ria.mp4
+
